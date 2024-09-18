@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Artur
+- 👀 I’m interested in front-end development, especially React and modern web technologies.
+- 🌱 I’m currently learning backend development with Next.js.
+- 💞️ I’m looking to collaborate on full-stack projects using React and Node.js/Strapi.
+- 📫  How to reach me: *arturmaksimenko784@icloud.com*
